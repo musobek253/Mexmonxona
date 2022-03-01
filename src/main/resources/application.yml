@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: "jdbc:postgresql://satao.db.elephantsql.com:5432/rmlumuxo"
+    username: "rmlumuxo"
+    password: "2t6S0jMikbkpB-gihYJ7G5gtp_ssoUSp"
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
